@@ -1,4 +1,4 @@
-### Merhaba👋, Benim adım Himmet Şepik
+### Merhaba👋, Ben Himmet
 #### Yazılım, Bilişim, Veri tabanı, Siber Güvenlik, Web Tasarım
 
 Yetenekler: HTML, CSS, JAVA, SQL
