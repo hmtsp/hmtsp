@@ -1,4 +1,4 @@
-### Hi there 👋, Himmet Şepik
+### Hi👋, My name is Himmet Şepik
 #### Software, IT, Database, Cyber ​​Security, Web Desing
 
 Skills: HTML, CSS, JAVA, SQL
